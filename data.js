@@ -1394,7 +1394,7 @@ window.event_data = {
             appTarget: "",
             hoverColor: "",
             id: "11z1nlck",
-            target: "https://maps.app.goo.gl/y1crc6xTezzeFpht7",
+            target: "https://maps.app.goo.gl/RAzYmHnPiut4MBUv5",
             type: "click",
           },
           {
